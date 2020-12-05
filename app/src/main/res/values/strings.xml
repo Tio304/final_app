@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CalSc</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Next</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">SELAMAT DATANG :)</string>
+    <string name="slide_1_desc">Kami menyediakan informasi khasiat dari berbagai macam sayur dan buah. Kami juga menyediakan informasi harga pasar dari buah dan sayuran!.</string>
+
+    <string name="slide_2_title">Dapatkan Informasinya</string>
+    <string name="slide_2_desc">Dapatkan informasi terpercaya dari berbagai sumber.</string>
+
+    <string name="slide_3_title">Fitur Terupdate</string>
+    <string name="slide_3_desc">Nikmati sensasi penggunaan yang sederhana dan kekinian.</string>
+
+    <string name="slide_4_title">Coba Sekarang!</string>
+    <string name="slide_4_desc">Coba Sekarang dan nikmati fiturnya!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="fruit_name">Nama Buah</string>
+    <string name="price_fruit">Harga Buah</string>
+
+    <string name="description">deskripsi sayur</string>
+    <string name="description2">deskripsi buah</string>
+
+    <string name="sayur_name">Nama Sayur</string>
+    <string name="price_sayur">Harga sayur</string>
+</resources>
